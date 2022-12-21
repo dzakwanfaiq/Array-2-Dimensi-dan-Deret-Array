@@ -10,8 +10,8 @@ Pada program kali ini penulis membuat 2 buah program yang mana program ini memil
 Program pertama, program ini dibuat menggunakan konsep Array 2 Dimensi yang mana program pertama memiliki fungsi untuk melakukan pertukaran elemen baris menjadi kolom dan elemen kolom menjadi baris.
 langkah awalnya yaitu penulis menginputkan banyak baris dan kolom pada matriks, lalu input nilai pada matriks, kemudian data yang telah diinput akan ditampilkan sesusai dengan konsep matriks, lalu ditampilkan juga hasil matriks setelah ditranspose.  
 
-Program kedua, dibuat untuk menentukan suatu bilangan yang tidak habis bisa jika dibagi dengan angka 3,5, dan 7 .
-
+Program kedua, program ini dibuat untuk menentukan suatu bilangan yang tidak habis bisa jika dibagi dengan angka 3,5, dan 7.
+Langkah awalnya yaitu penulis menginputkan berapa banyak baris dan kolom pada matriks, lalu input nilai pada pada matriks, setelah itu data yang telah diinputkan akan dipilih secara otomatis mana bilangan yang tidak habis jika dibagi dengan 3,5, dan 7. lalu akan ditampilkan bilangan yang tidak habis dibagi 3,5, dan 7. Namun, apabila nilai habis jika dibagi dengan 3,5, dan 7 maka tidak akan ditampilkan.
 ## Source Code
 - Source Code Soal No.1
 
