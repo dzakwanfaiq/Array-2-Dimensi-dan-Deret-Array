@@ -7,7 +7,7 @@
 ## Deskripsi Umum
 Pada program kali ini penulis membuat 2 buah program yang mana program ini memiliki fungsi tersendiri.
 Program pertama, program ini dibuat untuk melakukan pertukaran elemen baris menjadi kolom dan elemen kolom menjadi baris.
-
+langkah awalnya yaitu penulis menginputkan banyak baris dan kolom pada Array 
 
 
 
