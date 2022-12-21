@@ -5,7 +5,14 @@
 <br>Jurusan		: Teknik Informatika UIN Sunan Gunung Djati Bandung 
 
 ## Deskripsi Umum
-Array merupakan
+Pada program kali ini penulis membuat 2 buah program yang mana program ini memiliki fungsi tersendiri.
+Program pertama, program ini dibuat untuk melakukan pertukaran elemen baris menjadi kolom dan elemen kolom menjadi baris.
+
+
+
+
+Program kedua, dibuat untuk menentukan suatu bilangan yang tidak habis bisa jika dibagi dengan angka 3,5, dan 7 .
+
 ## Source Code
 - Source Code Soal No.1
 
