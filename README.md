@@ -7,8 +7,7 @@
 ## Deskripsi Umum
 Pada program kali ini penulis membuat 2 buah program yang mana program ini memiliki fungsi tersendiri.
 
-Program pertama, program ini dibuat menggunakan konsep Array 2 Dimensi 
-program pertama memiliki fungsi untuk melakukan pertukaran elemen baris menjadi kolom dan elemen kolom menjadi baris.
+Program pertama, program ini dibuat menggunakan konsep Array 2 Dimensi yang mana program pertama memiliki fungsi untuk melakukan pertukaran elemen baris menjadi kolom dan elemen kolom menjadi baris.
 langkah awalnya yaitu penulis menginputkan banyak baris dan kolom pada matriks, lalu input nilai pada matriks, kemudian data yang telah diinput akan ditampilkan sesusai dengan konsep matriks, lalu ditampilkan juga hasil matriks setelah ditranspose.  
 
 Program kedua, dibuat untuk menentukan suatu bilangan yang tidak habis bisa jika dibagi dengan angka 3,5, dan 7 .
