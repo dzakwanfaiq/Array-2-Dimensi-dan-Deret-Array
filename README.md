@@ -7,8 +7,7 @@
 ## Deskripsi Umum
 
 ## Source Code
-- Source Code Soal No.1
-<br>
+- Source Code Soal No.1 <br>
 #include <iostream>
 #include <conio.h>
 using namespace std;
@@ -63,8 +62,7 @@ int main(){
 	}
 	getch();
 }
-- Source Code Soal No.2
-<br>
+- Source Code Soal No.2 <br>
 #include <iostream>
 #include <conio.h>
 using namespace std;
