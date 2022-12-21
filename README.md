@@ -5,7 +5,7 @@
 <br>Jurusan		: Teknik Informatika UIN Sunan Gunung Djati Bandung 
 
 ## Deskripsi Umum
-
+Array merupakan
 ## Source Code
 - Source Code Soal No.1
 
