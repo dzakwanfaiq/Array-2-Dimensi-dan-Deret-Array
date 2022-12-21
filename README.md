@@ -113,6 +113,7 @@ int main() {
  <img width="597" alt="Screenshot_20221221_001655" src="https://user-images.githubusercontent.com/121118106/208793694-f979ac9a-802b-40b1-b377-913b2fd4191a.png">
 
 - Soal No.2 
- <img width="598" alt="Screenshot 2022-12-21 002005" src="https://user-images.githubusercontent.com/121118106/208793791-29a21e2c-c76d-4f4e-8ab6-a064b7d327ef.png">
+ <img width="568" alt="Screenshot_20221221_110055" src="https://user-images.githubusercontent.com/121118106/208819429-ac48ec10-11fa-476f-b59f-070298a833fb.png">
+
 
 
