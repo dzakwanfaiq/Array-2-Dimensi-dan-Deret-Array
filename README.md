@@ -7,6 +7,62 @@
 ## Deskripsi Umum
 
 ## Source Code
+- Source Code Soal No.1
+- #include <iostream>
+#include <conio.h>
+using namespace std;
+
+int main(){
+	int a_baris, b_kolom, i, j;
+	int matriks[10][10];
+	int transpose[10][10];
+
+	cout << "Mengubah Baris menjadi Kolom"<<endl;
+	cout << "Nama:\tDzakwan Faiq Nauval"<<endl;
+	cout << "NIM :\t1227050039"<<endl;
+	cout << "------------------------------"<<endl;
+	
+	cout << "Masukkan banyak baris matriks: ";
+	cin >> a_baris;
+	cout << "Masukkan banyak kolom matriks: ";
+	cin >> b_kolom;
+	cout << endl;
+	
+	// input 
+	for (i = 0; i < a_baris; i++) {
+		for (j = 0; j < b_kolom; j++) {
+    		cout << "Nilai Matriks Baris " << i+1 << " Kolom " << j+1 << " = " ;
+	  		cin  >> matriks[i][j];
+    	}
+	}
+	cout << endl;
+
+	// proses perhitungan
+	cout << "Matriks Awal: "<<endl;
+	for (i = 0; i < a_baris; i++){
+		for (j = 0; j < b_kolom; j++){
+			cout << matriks[i][j] << "\t";
+    	}
+    		cout << endl;
+	}
+  
+	for (i = 0; i < a_baris; i++){
+		for (j = 0; j < b_kolom; j++){
+    		transpose[j][i] = matriks[i][j];
+    	}
+	}
+	
+	// output
+	cout << "Hasil setelah Matriks diTranspose: "<<endl;
+	for (i = 0; i < b_kolom; i++){
+		for (j = 0; j < a_baris; j++){
+      		cout << transpose[i][j] << "\t";
+    	}
+    	cout << endl;
+	}
+	getch();
+}
+- Source Code Soal No.2
 #include <iostream>
 #include <conio.h>
 using namespace std;
