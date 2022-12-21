@@ -1,7 +1,7 @@
 ## Ujian Akhir Semester 
 <br>Mata Kuliah 	: Dasar Pemrograman
 <br> Nama		: Dzakwan Faiq Nauval
-<br>NIM		:	1227050039
+<br>NIM			: 1227050039
 <br>Jurusan		: Teknik Informatika UIN Sunan Gunung Djati Bandung 
 
 ## Deskripsi Umum
@@ -64,7 +64,7 @@ int main(){
 	getch();
 }
 - Source Code Soal No.2
-<br>
+
 #include <iostream>
 #include <conio.h>
 using namespace std;
